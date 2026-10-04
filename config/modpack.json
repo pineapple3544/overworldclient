@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "revision": "vanilla-26.2-1",
+  "minecraftVersion": "26.2",
+  "loader": {
+    "kind": "vanilla"
+  },
+  "mods": [],
+  "files": []
+}

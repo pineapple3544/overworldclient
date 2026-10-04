@@ -1,0 +1,10 @@
+{
+  "passportOrigin": "https://overworld.flyjung.kr",
+  "minecraftVersion": "26.2",
+  "velocityHost": "overworld.flyjung.kr",
+  "velocityPort": 25565,
+  "serverName": "Overworld",
+  "serverDescription": "우리의 이야기가 시작되는 곳",
+  "announcements": [],
+  "modManifestUrl": ""
+}
