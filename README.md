@@ -4,7 +4,7 @@ Overworld가 공지·학교 인증과 전용 모드 구성을 관리하고, 공�
 
 ## 설치와 사용
 
-배포 설치파일은 [GitHub Releases](https://github.com/pineapple3544/overworldclient/releases/latest)에서 받을 수 있습니다. 비공개 저장소이므로 접근 권한이 있는 GitHub 계정으로 로그인해야 합니다. 설치용 `.exe` 파일 하나를 다운로드하여 실행하면 됩니다.
+배포 설치파일은 [GitHub Releases](https://github.com/pineapple3544/overworldclient/releases/latest)에서 받을 수 있습니다. 설치용 `.exe` 파일 하나를 다운로드하여 실행하면 됩니다.
 
 **설정 → 화면 모드**에서 다크·라이트 모드를 선택하고 **설정 저장**을 누르면 다음 실행에도 유지됩니다. 기본값은 다크 모드입니다.
 
